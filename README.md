@@ -2,19 +2,25 @@
 ## Overview
 This application, named Q&A, utilizes Google's Gemini Language Model (LLM) to provide answers to user questions. It integrates the power of Gemini's natural language understanding to generate responses based on the input questions.
 
-## Features
-### Gemini LLM Integration: 
+### Features
+#### Gemini LLM Integration: 
 Utilizes Google's Gemini Language Model for question answering.
 
-### Streamlit Demo Interface: 
+#### Streamlit Demo Interface: 
 Uses Streamlit framework for creating an interactive web interface to demonstrate the Q&A functionality.
 
-## Requirements
-Python 3.x
-Google Gemini API credentials (for accessing Gemini LLM)
-Streamlit (for running the web interface)
+### Requirements
+1. Python 3.x 
 
-## Usage
+2. Google Gemini API credentials (for accessing Gemini LLM)
+
+3. google-generativeai
+
+4. python-dotenv
+
+5. Streamlit (for running the web interface)
+
+### Usage
 
 1. Open the application in your web browser.
    
@@ -25,7 +31,7 @@ Streamlit (for running the web interface)
 4. Click "Submit" to see the generated answer.
 
 
-## Example
+### Demo
 
 ![Screenshot 2024-07-03 171634](https://github.com/VarshaYK/Gemini-Pro-LLM-App/assets/31321685/cce53d9d-ecf1-4927-aa67-d941ef1f24ef)
 
@@ -34,7 +40,7 @@ Streamlit (for running the web interface)
 
 
 
-## Notes
+### Notes
 
 Ensure your Gemini API credentials are securely stored and managed according to best practices.
 
