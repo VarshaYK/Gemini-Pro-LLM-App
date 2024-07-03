@@ -1,4 +1,4 @@
-# Gemini-Pro-LLM-App
+# Gemini-Pro LLM Q&A App
 ## Overview
 This application, named Q&A, utilizes Google's Gemini Language Model (LLM) to provide answers to user questions. It integrates the power of Gemini's natural language understanding to generate responses based on the input questions.
 
